@@ -94,6 +94,14 @@ Go to www.bretcrownacademy.com
 
 ***
 
+{{< block "bg_haze" "full" >}}{{< grid "2 center wrap" >}} {{< column >}}
+
+{{< image "/images/trading100.png" "a picture of buy sell" "img-50">}}
+
+{{< /column >}}
+
+{{< column >}}
+
 ### **Online Course Schedule**
 
 **Course Duration: 20 hours**
@@ -113,6 +121,12 @@ This is an interactive room where the participants have audio, visuals, chat fea
 Enrol for this program to trade Crude Oil profitably.
 
 When completed, you are given a Certificate as successfully graduating with Honors as a “Master Trader”.
+
+{{< /column >}}
+
+{{< /grid >}}
+
+{{< /block >}}
 
 ***
 
