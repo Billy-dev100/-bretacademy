@@ -162,6 +162,8 @@ Languages include English and Spanish.
 
 {{</grid>}}
 
+***
+
 ### **Sign up for the Course**
 
 Question: What is the cost of this Training Course?
@@ -175,8 +177,6 @@ Answer: If you compare our Course to say an Accounting accreditation, a professi
 <br><hr><br>
 
 {{< myPartial partial="googleForm" >}}
-
-***
 
 ### **Contact Us**
 
