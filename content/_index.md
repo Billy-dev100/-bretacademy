@@ -26,7 +26,7 @@ The Bretcrown Online Trading Academy LTD was created as a means of finding like-
 
 The Bretcrown Online Trading Academy LTD's techniques are highly effective as they are based on certain unique characteristics of Crude Oil and key geopolitical factors among our proprietary keys, with the result that the rate is reversed with over 75% being successful.
 
-As our Crude Oil Investment Club is growing, we need more traders, and the best way to spot trading talent is by holding a Training Course that will enable traders with a skill-set to surface, providing Bretcrown Trading with a pool of talented traders. Traders are currently needed for London, Switzerland, Dubai, and Singapore.
+As our Crude Oil Investment Club is growing, we need more traders, and the best way to spot trading talent is by holding a Training Course that will enable traders with a skill-set to surface, providing Bretcrown Online Trading International LTD with a pool of talented traders. Traders are currently needed for London, Switzerland, Dubai, and Singapore.
 
 The traders that successfully graduate the Course become certified ‘Master Traders’. As such, this certification will also enhance their ability to enter or progress in the trading industry, globally so; it is a ‘win/win’ for all concerned.
 
@@ -38,7 +38,7 @@ The traders that successfully graduate the Course become certified ‘Master Tra
 
 **Fact:** Statistics say that over 75% of all traders lose money while trading intraday in the Crude Oil markets. This is because the average (inexperienced) traders often rely on indicators, which are mostly lagging. Professional traders are aware of this and create the momentum to start a movement. By the time the average trader gets a trade signal, the trade opportunity is almost over. Professionals will be selling their positions to indicator-based traders.
 
-Bretcrown Trading’s techniques are based on this concept, which keeps us aligned with the other Professional and Institutional traders. Crude Oil also follows certain predictable movements across different trading zones which are known to some Professional Intuitional traders.
+Bretcrown Online Trading International LTD's techniques are based on this concept, which keeps us aligned with the other Professional and Institutional traders. Crude Oil also follows certain predictable movements across different trading zones which are known to some Professional Intuitional traders.
 
 We follow this concept, and take advantage of predictable movements, from the Asian to the European trading zones, and subsequently to NYMEX in the USA.
 
@@ -48,9 +48,9 @@ Most traders are not successful due to not having a specific ‘Trading Plan’.
 
 **Money:** Risk Management is the single-most-important factor in trading, and Trainees will learn the 2 Golden Rules to ensure success.
 
-**Mind:** Bretcrown Training teaches the concept of ‘Discipline’ and ‘Patience’ – “Patience” to wait for the market to give us the trade and once it does, to have the “Discipline” to follow the rules.
+**Mind:** Bretcrown Online Trading Academy teaches the concept of ‘Discipline’ and ‘Patience’ – “Patience” to wait for the market to give us the trade and once it does, to have the “Discipline” to follow the rules.
 
-**Method:** Bretcrown’s techniques are based on the very concept of the Professionals trapping the less-experienced traders. This keeps us aligned with the skill set of Professional and Institutional traders, thus, increasing the probability of successful trades. Our techniques are advanced and highly effective since we do not use the regular trading concepts conventionally. We do not use any indicators but instead rely completely on price action.
+**Method:** Bretcrown Online Trading Academy LTD's techniques are based on the very concept of the Professionals trapping the less-experienced traders. This keeps us aligned with the skill set of Professional and Institutional traders, thus, increasing the probability of successful trades. Our techniques are advanced and highly effective since we do not use the regular trading concepts conventionally. We do not use any indicators but instead rely completely on price action.
 
 **‘Divergence’:** Divergence is our principal trading technique. Divergence is the primary setup used by Banking Institutions to trap the retail traders. By using this technique, we are trading along with the Professional Institutions. For example, a majority of traders are not aware that there are different types of divergences. Our Trading Plan identifies the “Class A” divergence, which is the strongest type of divergence and usually indicates a sharp and significant reversal of the trend.
 
@@ -122,7 +122,7 @@ When completed, you are given a Certificate as successfully graduating with Hono
 
 ***
 
-### **Our Team**
+### **Our Instructors**
 
 {{< grid "3 center mb-2 mt-2">}} {{< column "column_bg" >}} {{< avatar "/images/sunil2021.png" "a passport photo of Sunil Mangwani" >}}
 
