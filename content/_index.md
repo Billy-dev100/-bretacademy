@@ -2,7 +2,7 @@
 permalink = "/"
 title = "Bretcrown Trading Academy"
 [[slides]]
-description = "Bretcrown Trading Academy is a leader in Crude Oil Trading through CFDs, offering courses globally through online courses. We have a competent team of instructors offering weekly training to students from all corners of the globe."
+description = "We are a leading Crude Oil Trading online training academy offering courses globally. We have a competent team of instructors offering weekly training to students from all corners of the globe."
 image = "oil.jpg"
 link = ""
 title = "Welcome to Bretcrown Trading Academy"
