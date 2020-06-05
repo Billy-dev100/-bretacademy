@@ -212,7 +212,7 @@ Since its founding in 1988, Bretcrown trust has been a tax efficient Holding veh
 
 The Mission Objective for Bretcrown Trading Ltd is to Trade at a level of success that will benefit all Shareholders, Stakeholders and Employees.
 
-{{< /block >}}
+
 {{< /block >}}
 
 {{< block "bg" "full">}} {{< grid "2 center wrap" >}} {{< column >}}
