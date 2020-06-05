@@ -78,7 +78,7 @@ The traders that successfully graduate the Course become certified ‘Master Tra
 
 **Answer:**
 
-**Fact:** The Crude Oil market is comprised of various products - Brent Crude, WTI Crude, Natural Gas and more. It is one of the most volatile markets in the Commodities world. Crude Oil trading offers excellent opportunities to profit in nearly all market conditions due to its unique standing within the world's economic and political systems.
+**Fact:** The Crude Oil market is comprised of various products - Brent Crude, WTI Crude, Natural Gas, and more. It is one of the most volatile markets in the Commodities world. Crude Oil trading offers excellent opportunities to profit in nearly all market conditions due to its unique standing within the world's economic and political systems.
 
 **Fact:** Statistics say that over 75% of all traders lose money while trading intraday in the Crude Oil markets. This is because the average (inexperienced) traders often rely on indicators, which are mostly lagging. Professional traders are aware of this and create the momentum to start a movement. By the time the average trader gets a trade signal, the trade opportunity is almost over. Professionals will be selling their positions to indicator-based traders.
 
@@ -162,7 +162,7 @@ When completed, you are given a Certificate as successfully graduating with Hono
 
 ### **Our Team**
 
-{{< grid "3 center mb-2 mt-2>}} {{< column "column_bg" >}} {{< avatar "/images/sunil2021.png" "a passport photo of Sunil Mangwani" >}}
+{{< grid "3 center mb-2 mt-2">}} {{< column "column_bg" >}} {{< avatar "/images/sunil2021.png" "a passport photo of Sunil Mangwani" >}}
 
 ### Sunil Mangwani
 
