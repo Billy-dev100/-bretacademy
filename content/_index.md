@@ -52,6 +52,8 @@ Get our ebook for secret tips on how Neil G Van Luven transformed $38,673 into $
 
 {{< video "e-Lj8cgrYkY" >}}
 
+{{</block>}}
+
 {{< myPartial partial = "toc" >}}
 
 ### About the Institute
@@ -173,5 +175,3 @@ For more information contact [sunil@bretcrown.com](mailto:sunil@bretcrown.com) o
 <br><hr><br>
 
 {{< myPartial partial="googleForm" >}}
-
-{{</block>}}
