@@ -27,5 +27,3 @@ fields:
   type: boolean
   label: draft
   description: publish or unpublished
-pages:
-- content/blog/cheer-spreads-through-us-oil-market.md
