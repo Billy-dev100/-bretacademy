@@ -162,21 +162,7 @@ When completed, you are given a Certificate as successfully graduating with Hono
 
 ***
 
-### **Sign up for the Course**
-
-Question: What is the cost of this Training Course?
-
-Answer: The cost is $995 upon registration plus $1,000 at completion, or the Trainee can opt for a 25% discount by paying $1,495 upon registration.
-
-Question: Why should I take this course as opposed to an Accounting Course or other trading courses as the cost is much the same?
-
-Answer: If you compare our Course to say an Accounting accreditation, a professional Oil Trader will earn vastly greater sums compared to a career in Accounting. Additionally, although there are other Trading Courses available - none of them specialise in Energy. Our CEO believes that to become a top Crude Oil trader, you must specialise and learn everything you can about Oil. He believes that the same should apply to all trading products. Our focus is on Crude Oil so our graduates will learn from the Energy specialist professionals.
-
-For more information contact [sunil@bretcrown.com](mailto:sunil@bretcrown.com) or [catherine@bretcrown.com](mailto:catherine@bretcrown.com)
-
-<br><hr><br>
-
-## Our Team
+### **Our Team**
 
 {{< grid "3 center mb-2 mt-2" >}} {{< column "column_bg" >}} {{< avatar "/images/sunil2021.png" "a passport photo of Sunil Mangwani" >}}
 
@@ -219,5 +205,21 @@ Catherine is passionate about helping individuals and companies succeed through 
 Languages include English and Spanish.
 
 {{< /column >}}
+
+***
+
+### **Sign up for the Course**
+
+Question: What is the cost of this Training Course?
+
+Answer: The cost is $995 upon registration plus $1,000 at completion, or the Trainee can opt for a 25% discount by paying $1,495 upon registration.
+
+Question: Why should I take this course as opposed to an Accounting Course or other trading courses as the cost is much the same?
+
+Answer: If you compare our Course to say an Accounting accreditation, a professional Oil Trader will earn vastly greater sums compared to a career in Accounting. Additionally, although there are other Trading Courses available - none of them specialise in Energy. Our CEO believes that to become a top Crude Oil trader, you must specialise and learn everything you can about Oil. He believes that the same should apply to all trading products. Our focus is on Crude Oil so our graduates will learn from the Energy specialist professionals.
+
+For more information contact [sunil@bretcrown.com](mailto:sunil@bretcrown.com) or [catherine@bretcrown.com](mailto:catherine@bretcrown.com)
+
+<br><hr><br>
 
 {{< myPartial partial="googleForm" >}}
