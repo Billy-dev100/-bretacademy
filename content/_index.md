@@ -30,9 +30,9 @@ As our Crude Oil Investment Club is growing, we need more traders, and the best 
 
 The traders that successfully graduate the Course become certified ‘Master Traders’. As such, this certification will also enhance their ability to enter or progress in the trading industry, globally so; it is a ‘win/win’ for all concerned.
 
-### About the Course
+### About Our Master Trader Course
 
-**What does the Bretcrown Training Course cover?**
+**What does it entail?**
 
 **Fact:** The Crude Oil market is comprised of various products - Brent Crude, WTI Crude, Natural Gas, and more. It is one of the most volatile markets in the Commodities world. Crude Oil trading offers excellent opportunities to profit in nearly all market conditions due to its unique standing within the world's economic and political systems.
 
