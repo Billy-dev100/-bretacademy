@@ -2,7 +2,7 @@
 permalink = "/"
 title = "Bretcrown Trading Academy"
 [[slides]]
-description = "Bretcrown Trading LTD is a Leading Spread-betting Company Based in the United Kingdom. Bretcrown Trading Provides Successful Spread-betting On Crude Oil Products"
+description = "Bretcrown Trading Academy is a leader in Crude Oil Trading through CFDs, offering courses globally through online courses. We have a competent team of instructors offering weekly training to students from all corners of the globe."
 image = "oil.jpg"
 link = ""
 title = "Professional Spread-betting on Crude Oil and Related Products"
