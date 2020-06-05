@@ -5,7 +5,7 @@ title = "Bretcrown Online Trading Academy LTD"
 description = "A leading Crude Oil Online Trading Academy offering courses globally backed by a competent team of instructors."
 image = "chart-trading-courses-forex.jpg"
 link = ""
-title = "WELCOME TO BRETCROWN TRADING ACADEMY"
+title = "WELCOME TO THE BRETCROWN ONLINE TRADING ACADEMY LTD"
 
 +++
 {{<block>}}
