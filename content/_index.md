@@ -164,8 +164,6 @@ When completed, you are given a Certificate as successfully graduating with Hono
 
 {{<block>}}
 
-{{< myPartial partial = "toc" >}}
-
 ### **Our Team**
 
 {{< grid "3 center mb-2 mt-2" >}} {{< column "column_bg" >}} {{< avatar "/images/sunil2021.png" "a passport photo of Sunil Mangwani" >}}
