@@ -18,38 +18,6 @@ link = "/our-trading-tools/"
 title = "Applying Powerful Computing Technologies"
 
 +++
-{{< grid "4 cards center" >}} {{< column "card" >}} {{< icon "/images/Picture4.png" "a competent team icon" >}}
-
-### Trusted Team
-
-Our team of certified and highly experienced crude oil spread-betting professionals guarantees a high success rate on our trades.
-
-{{< /column >}} {{< column "card" >}} {{< icon "/images/Picture2.png" "years of experience" >}}
-
-### Decades of Experience
-
-We have been best at what we do for 31 years. We have the skills to give you exceptional returns.
-
-{{< /column >}} {{< column "card" >}} {{< icon "/images/Picture3.png" "technical tools for success">}}
-
-### Innovation Leading Results
-
-We take into account all technical indicators such as the Bollinger Bands, Fibonachi numbers and lines, etc. and take positions when we believe it is time to do so.
-
-{{< /column >}} {{< column "card" >}} {{< icon "/images/Picture6.png" "technical tools for success">}}
-
-### Our Secrets to Success
-
-Get our ebook for secret tips on how Neil G Van Luven transformed $38,673 into $1,129,030 in 14 weeks by Spread-betting crude oil!
-
-{{< button "https://www.amazon.com/dp/1075166098?ref_=pe_3052080_397514860" "download book" >}}
-
-{{< /column >}} {{< /grid >}}
-
-{{<block>}}
-
-## Our Products & Services
-
 {{< video "e-Lj8cgrYkY" >}}
 
 {{</block>}}
