@@ -210,8 +210,6 @@ Languages include English and Spanish.
 
 {{</grid>}}
 
-***
-
 ### **Sign up for the Course**
 
 Question: What is the cost of this Training Course?
