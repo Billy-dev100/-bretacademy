@@ -96,7 +96,7 @@ Go to www.bretcrownacademy.com
 
 {{< block "bg_haze" "full" >}}{{< grid>}} {{< column >}}
 
-{{< image "/images/trading100.png" "a picture of buy sell" "img-40">}}
+{{< image "/images/trading100.png" "a picture of buy sell" "img-60">}}
 
 {{< /column >}}
 
