@@ -94,7 +94,7 @@ Go to www.bretcrownacademy.com
 
 ***
 
-{{< block "bg_haze" "full" >}}{{< grid>}} {{< column >}}
+{{< block "bg_haze" "full" >}}{{< grid "2 left wrap">}} {{< column >}}
 
 {{< image "/images/trading100.png" "a picture of buy sell" "img-60">}}
 
