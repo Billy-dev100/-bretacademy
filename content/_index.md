@@ -5,7 +5,7 @@ title = "Bretcrown Trading Academy"
 description = "Bretcrown Trading Academy is a leader in Crude Oil Trading through CFDs, offering courses globally through online courses. We have a competent team of instructors offering weekly training to students from all corners of the globe."
 image = "oil.jpg"
 link = ""
-title = "Professional Spread-betting on Crude Oil and Related Products"
+title = "Welcome to Bretcrown Trading Academy"
 
 +++
 {{<block>}}
