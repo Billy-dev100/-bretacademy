@@ -8,6 +8,8 @@ link = ""
 title = "Professional Spread-betting on Crude Oil and Related Products"
 
 +++
+{{<block>}}
+
 {{< video "e-Lj8cgrYkY" >}}
 
 {{</block>}}
