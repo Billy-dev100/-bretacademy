@@ -3,7 +3,7 @@ description = ""
 enableGitInfo = true
 enableRobotsTXT = true
 paginate = 9
-title = "Bretcrown Trading"
+title = "Bretcrown Academy"
 [blackfriday]
 fractions = false
 [markup.goldmark.renderer]
