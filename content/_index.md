@@ -62,9 +62,9 @@ Get our ebook for secret tips on how Neil G Van Luven transformed $38,673 into $
 
 ### About the Institute
 
-Question: Tell me about the Bretcrown Institute of Learning.
+**What is Bretcrown Trading Academy?**
 
-Answer: Crude Oil is a benchmark not only on Oil itself but also on the well-being of the geopolitical climate of many Countries, Organizations & Governments. The Crude Oil trading market is one of the most volatile markets among all Commodities, and one that has vast trading volumes worldwide with tremendous profit-earning potential for traders, globally.
+Crude Oil is a benchmark not only on Oil itself but also on the well-being of the geopolitical climate of many Countries, Organizations & Governments. The Crude Oil trading market is one of the most volatile markets among all Commodities, and one that has vast trading volumes worldwide with tremendous profit-earning potential for traders, globally.
 
 The opportunity to trade Crude Oil exists perpetually, whether the price is $150 a barrel or below $20 a barrel, whether the price is rising or falling, whether in a ‘BULL’ or a ‘BEAR’ market.
 
@@ -78,9 +78,7 @@ The traders that successfully graduate the Course become certified ‘Master Tra
 
 ### About the Course
 
-**Question:** What does the Bretcrown Training Course cover?
-
-**Answer:**
+**What does the Bretcrown Training Course cover?**
 
 **Fact:** The Crude Oil market is comprised of various products - Brent Crude, WTI Crude, Natural Gas, and more. It is one of the most volatile markets in the Commodities world. Crude Oil trading offers excellent opportunities to profit in nearly all market conditions due to its unique standing within the world's economic and political systems.
 
@@ -100,7 +98,7 @@ Most traders are not successful due to not having a specific ‘Trading Plan’.
 
 **Method:** Bretcrown’s techniques are based on the very concept of the Professionals trapping the less-experienced traders. This keeps us aligned with the skill set of Professional and Institutional traders, thus, increasing the probability of successful trades. Our techniques are advanced and highly effective since we do not use the regular trading concepts conventionally. We do not use any indicators but instead rely completely on price action.
 
-‘Divergence’ Divergence is our principal trading technique. Divergence is the primary setup used by Banking Institutions to trap the retail traders. By using this technique, we are trading along with the Professional Institutions. For example, a majority of traders are not aware that there are different types of divergences. Our Trading Plan identifies the “Class A” divergence, which is the strongest type of divergence and usually indicates a sharp and significant reversal of the trend.
+**‘Divergence’:** Divergence is our principal trading technique. Divergence is the primary setup used by Banking Institutions to trap the retail traders. By using this technique, we are trading along with the Professional Institutions. For example, a majority of traders are not aware that there are different types of divergences. Our Trading Plan identifies the “Class A” divergence, which is the strongest type of divergence and usually indicates a sharp and significant reversal of the trend.
 
 Also, we use the Fibonacci Ratios as a confirmation factor. The Fibonacci ratios are used in the financial markets to identify strong Support and Resistance levels. They can accurately anticipate the major turns in the market and identify key turning points for tops and bottoms...but only if you know how to interpret them correctly and most traders seldom do so. We use certain ‘Institutional ratios’ which a high percentage of traders are not aware of…. again, to keep our trades aligned with the Professional Institutions.
 
@@ -136,9 +134,9 @@ Money: Risk Management is the single-most-important factor in trading as previou
 * Putting it all together with a Trading Plan
 * Learning the ‘ready-to-use’ MT4 indicator to identify trade setups.
 
-**Question:** Remarkably interesting and exciting - how does one enrol and get started?
+**How does one enrol and get started?**
 
-**Answer:** Go to www.bretcrown.com/institute-of-learning.
+Go to www.bretcrownacademy.com
 
 ***
 
