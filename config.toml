@@ -1,4 +1,4 @@
-baseurl = "https://bretcrown.com"
+baseurl = "https://bretcrownacademy.netlify.app/"
 description = ""
 enableGitInfo = true
 enableRobotsTXT = true
@@ -21,7 +21,5 @@ url = "https://bretcrown.com"
 [params.success]
 description = "Your payment to Bretcrown Learning Institute has been received."
 heading = "Thank you,  "
-
 [taxonomies]
 tag = "tags"
-
