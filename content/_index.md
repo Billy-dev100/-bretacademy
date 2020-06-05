@@ -118,8 +118,6 @@ When completed, you are given a Certificate as successfully graduating with Hono
 
 {{< /column >}}
 
-{{< /grid >}}
-
 {{< /block >}}
 
 ***
