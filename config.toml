@@ -19,7 +19,7 @@ logo = "academia.png"
 paypalClient = "ASt9D7H91sMv8Y3iM2s_w5jaBkdlBxDd3Pn-ylG2HjHtvVxtlYtSuYbXfZgVTSr0rdquXO_QoSK0rxXl"
 url = "https://bretcrownacademy.com"
 [params.success]
-description = "Your payment to Bretcrown Learning Institute has been received."
-heading = "Thank you,  "
+description = "Your payment to Bretcrown Trading Academy has been received."
+heading = "Thank you,"
 [taxonomies]
 tag = "tags"
