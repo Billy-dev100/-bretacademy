@@ -1,0 +1,10 @@
+{{- $type := .Get 0 }}
+{{- $plain := .Get 1 }}
+<div {{- with $type }} class='{{ . }}'{{ end }}>
+  {{- $content := .Inner }}
+  {{- with $plain }}
+    {{- $content }}
+  {{- else }}
+   {{ $content | markdownify }}
+  {{- end }}
+</div>

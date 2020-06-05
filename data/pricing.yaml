@@ -1,0 +1,21 @@
+---
+- title: Not Discounted
+  price: "1995"
+  styledPrice: '1,995'
+  note: NO DISCOUNT
+  buttonLabel: Option 1
+  description: |
+    "Make a 50% deposit ($995) and clear the balance in the last week
+    of training"
+  # footnotes: |
+  #   For more information contact [sunil@bretcrown.com](mailto:sunil@bretcrown.com)
+  #   or [catherine@bretcrown.com](mailto:catherine@bretcrown.com)
+- title: Discounted
+  price: "995"
+  note: SAVE 25%
+  styledPrice: '1,495'
+  buttonLabel: Discounted
+  description: Pay in full and save $500
+  # footnotes: |
+    # For more information contact [sunil@bretcrown.com](mailto:sunil@bretcrown.com)
+    # or [catherine@bretcrown.com](mailto:catherine@bretcrown.com)

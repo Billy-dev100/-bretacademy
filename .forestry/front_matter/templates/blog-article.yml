@@ -1,0 +1,53 @@
+---
+label: Blog Article
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+- type: field_group
+  name: image
+  label: image
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: description
+    label: description
+- name: draft
+  type: boolean
+  label: draft
+  description: publish or unpublished
+pages:
+- content/blog/cheer-spreads-through-us-oil-market.md
+- content/blog/china-s-message-to-the-oil-market.md
+- content/blog/current-crude-situation.md
+- content/blog/facts-every-trader-should-consider.md
+- content/blog/lockdown-relaxation-may-be-moving-too-fast.md
+- content/blog/oil-prices-made-history.md
+- content/blog/oil-slump-puts-pressure-on-gulf-states-currency-pegs.md
+- content/blog/oil-surges-20-posts-fifth-straight-day-of-gains-for-first-time-since-july.md
+- content/blog/one-in-ten-schroders-funds-is-poor-value.md
+- content/blog/petrol-tankers-sail-from-iran-to-venezuela.md
+- content/blog/playing-golf-is-the-passion-of-many-business-people.md
+- content/blog/president-vladimir-putin-of-russia.md
+- content/blog/saudi-arabia-shows-asia-focus.md
+- content/blog/saudi-arabia-will-cut-its-oil-production.md
+- content/blog/small-time-investing-fuels-real-world-consequences.md
+- content/blog/spread-betting.md
+- content/blog/trading-crude-oil-1.md
+- content/blog/update-1-iea-still-sees-record-2020-oil-demand-fall-but-easing-lockdowns-helping.md
+- content/blog/us-crude-imports-surge.md
+- content/blog/us-oil-prices-rose-for-a-fifth-straight-day.md
+- content/blog/us-oil-production-is-falling.md
+- content/blog/will-demand-ever-go-back-to-where-it-was.md
+- content/blog/worst-time-to-trade.md

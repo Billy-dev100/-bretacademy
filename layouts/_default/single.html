@@ -1,0 +1,18 @@
+{{ define "main" }}
+  
+  {{- $hasToc := false }}
+  {{- if eq .Params.toc true }}
+    {{ $hasToc = true }}
+  {{- end }}
+  <div class = 'wrap_min mt-1 pb-1 link_show{{ if eq $hasToc true }} grid-auto{{ end }}'>
+    {{- if eq .Params.toc true }}
+    <div>
+      {{- .TableOfContents }}
+    </div>
+    {{- end }}
+    <section>
+      <h1 class = 'mb-1 underline'>{{ .Title }}</h1>
+      {{ .Content }}
+    </section>
+  </div>
+{{ end }}

@@ -1,0 +1,15 @@
+{{ with .Params.author }}
+{{ $author := . }}
+{{- range $.Site.Data.authors }}
+{{- if eq (lower .name) (lower $author) }}
+<section class = 'signature'>
+  <h3 class = 'signature_name'>{{ .fullName }}</h3>
+  {{- $fullName := .fullName }}
+  {{ with .signature }}
+  <img src = '/images/{{ . }}' alt = '{{ $fullName }} signature' class = 'signature_signature'>
+  {{ end }}
+  <h4 class = 'signature_title'>{{ .title }}</h4>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

@@ -1,0 +1,24 @@
+<div class="pricing expanded">
+  <!-- {{ partial "countDown" . }} -->
+  <!-- <h3 class="text-center" id="enrol">Checkout</h3> -->
+  {{- $pricing := $.Site.Data.pricing }}
+  <div class="pricing_switch">
+    {{- range $pricing }}
+    <div class="pricing_option">
+      <span>{{ .buttonLabel }}</span>
+      <span></span>
+    </div>
+    {{- end }}
+  </div>
+  <div class="pricing_details">
+    {{- range $pricing }}
+    <div class="pricing_detail" data-price="{{ .price }}.00">
+      <h2 class="pricing_title"{{ with .note }} data-note="{{ . }}"{{end}}></h2>
+      <h3 class="pricing_price">{{ .styledPrice }}</h3>
+      <p class="pricing_description">{{ .description | markdownify }}</p>
+      <div class="pricing_button" id="button-{{ .price }}" data-amount="{{ .price }}.00"></div>
+      <!-- <p class="pricing_description">{{ .footnotes | markdownify }}</p> -->
+    </div>
+    {{- end }}
+  </div>
+</div>

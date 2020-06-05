@@ -1,0 +1,42 @@
+{{- $functionsPath := "js/functions.js" }}
+{{- $functions := resources.Get $functionsPath | resources.ExecuteAsTemplate $functionsPath . }}
+
+{{- $helperScriptPath := "js/helper.js" }}
+{{- $helper := resources.Get $helperScriptPath | resources.ExecuteAsTemplate $helperScriptPath . }}
+
+{{- $dist := slice $functions $helper | resources.Concat "js/dist.js" | resources.Minify | resources.Fingerprint "sha512" }}
+<div>
+  <h3 class = 'text-center'>Next Training Course Starts on 20th April, 2020</h3>
+  <script src = '{{ $dist.Permalink }}'></script>
+  <div class = 'timer'>
+    <div class = 'timer_value' id = 'days'>
+      <span class = 'timer_unit'></span>
+      <label class = 'timer_label'>Days</label>
+    </div>
+    <span class = 'timer_divider'>:</span>
+    <div class = 'timer_value' id = 'hrs'>
+      <span class = 'timer_unit'></span>
+      <label class = 'timer_label'>Hours</label>
+    </div>
+    <span class = 'timer_divider'>:</span>
+    <div class = 'timer_value' id = 'mins'>
+      <span class = 'timer_unit'></span>
+      <label class = 'timer_label'>Minutes</label>
+    </div>
+    <span class = 'timer_divider'>:</span>
+    <div class = 'timer_value' id = 'seconds'>
+      <span class = 'timer_unit'></span>
+      <label class = 'timer_label'>Seconds</label>
+    </div>
+  </div>
+  <script>
+    let dateStr, eventDate, timer;
+    dateStr = "2020-04-20T10:20:30Z";
+    timer = document.currentScript.previousElementSibling;
+    eventDate = Date.parse(dateStr);
+    populateCountDown(timer, eventDate);
+    setInterval(function(){
+      populateCountDown(timer, eventDate)
+    }, 1000);
+  </script>
+</div>

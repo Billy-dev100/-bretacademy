@@ -1,0 +1,29 @@
+---
+- link: About Us
+  url: "/about-us/"
+  submenu: []
+- link: The Problem
+  url: "/the-problem/"
+  submenu:
+  - link: The Solution
+    url: "/the-solution/"
+- link: Trading Tools
+  url: "/our-trading-tools/"
+  submenu:
+  - link: Trading Strategies
+    url: "/trading-strategies/"
+- link: Institute of Learning
+  url: "/institute-of-learning/"
+  submenu: []
+- link: The Crude Oil Investment Club
+  url: "/the-crude-oil-club/"
+  submenu: []
+- link: Blog
+  url: "/blog/"
+  submenu: []
+- link: Team
+  url: "/team/"
+  submenu: []
+- link: Contact
+  url: "/contact/"
+  submenu: []

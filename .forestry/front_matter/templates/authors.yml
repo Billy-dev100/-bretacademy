@@ -1,0 +1,26 @@
+---
+label: Authors
+hide_body: true
+fields:
+- type: field_group_list
+  name: Authors
+  label: Authors
+  fields:
+  - type: text
+    name: name
+    label: name
+    config:
+      required: true
+  - type: text
+    name: fullName
+    label: fullName
+    config:
+      required: true
+  - type: text
+    name: signature
+    label: signature
+  - type: text
+    name: title
+    label: title
+  config:
+    labelField: name

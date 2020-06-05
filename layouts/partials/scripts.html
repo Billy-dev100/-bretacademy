@@ -1,0 +1,20 @@
+{{- $functionsPath := "js/functions.js" }}
+{{- $functions := resources.Get $functionsPath | resources.ExecuteAsTemplate $functionsPath . }}
+
+{{- $autoresizePath := "js/autoresize.js" }}
+{{- $autoresize := resources.Get $autoresizePath | resources.ExecuteAsTemplate $autoresizePath . }}
+
+{{- $countriesPath := "js/countries.js" }}
+{{- $countries := resources.Get $countriesPath | resources.ExecuteAsTemplate $countriesPath . }}
+
+{{- $payPath := "js/paypal.js" }}
+{{- $pay := resources.Get $payPath | resources.ExecuteAsTemplate $payPath . }}
+
+{{- $tocScriptPath := "js/toc.js" }}
+{{- $toc := resources.Get $tocScriptPath | resources.ExecuteAsTemplate $tocScriptPath . }}
+
+{{- $mainScriptPath := "js/index.js" }}
+{{- $main := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . }}
+
+{{- $bundle := slice $autoresize $countries $functions $pay $main $toc | resources.Concat "js/bundle.js" | resources.Fingerprint "sha512" }}
+<script src = '{{ $bundle.Permalink }}'></script>

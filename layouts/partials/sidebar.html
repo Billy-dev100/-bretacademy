@@ -1,0 +1,20 @@
+<!-- <aside class = 'sidebar mb-2'>
+  <div class = 'sidebar_inner'>
+    <a href = 'mailto:{{ .Site.Params.email }}' class = 'contact_btn btn'>Call Us</a>
+  </div>
+</aside> -->
+<div class = 'aside mb-2'>
+  <aside class = 'mt-1 sticky mb-2'>
+    {{ $thisPermalink := .RelPermalink }}
+    <h3>Recent Articles</h3>
+    <ul>
+    {{ range where $.Site.RegularPages "Section" .Section }}
+      {{ if not (eq $thisPermalink .RelPermalink )}}
+      <li>
+        <a href = "{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    {{ end }}
+    </ul>
+  </aside>
+</div>

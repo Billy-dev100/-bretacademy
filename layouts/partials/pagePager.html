@@ -1,0 +1,14 @@
+<div class = 'paginate'>
+  <div>
+    {{ with .PrevInSection }}
+    <h3>Previous</h3>
+    <a href = '{{ .Permalink }}'>{{ .Title }}</a>
+    {{ end }}
+  </div>
+  <div>
+    {{ with .NextInSection }}
+    <h3>Next</h3>
+    <a href = '{{ .Permalink }}'>{{ .Title }}</a>
+    {{ end }}
+  </div>
+</div>

@@ -1,0 +1,26 @@
+---
+label: Menu Template
+hide_body: true
+fields:
+- type: field_group_list
+  name: Menu
+  label: Menu Links
+  fields:
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: url
+    label: url
+  - type: field_group_list
+    name: submenu
+    fields:
+    - type: text
+      name: link
+      label: link
+    - type: text
+      name: url
+      label: url
+    label: Submenu links
+pages:
+- data/menu.yaml

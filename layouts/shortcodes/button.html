@@ -1,0 +1,4 @@
+{{- $link := .Get 0 }}
+{{- $label := .Get 1 }}
+{{- $options := .Get 2 }}
+<a href = '{{ $link }}' class = 'btn'{{ with $options }} {{ . }}{{ end }}>{{ $label }}</a>

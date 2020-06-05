@@ -1,0 +1,39 @@
+---
+label: pricing
+hide_body: true
+fields:
+- type: field_group_list
+  name: Pricing
+  label: Pricing
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: price
+    label: price
+  - type: text
+    name: styledPrice
+    label: styledPrice
+  - type: text
+    name: note
+    label: note
+  - type: text
+    name: buttonLabel
+    label: buttonLabel
+  - type: textarea
+    name: description
+    label: description
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: textarea
+    name: footnotes
+    label: footnotes
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+pages:
+- data/pricing.yaml

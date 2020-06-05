@@ -1,0 +1,72 @@
+.toc
+  // max-height: 80vh
+  position: sticky
+  position: -webkit-sticky
+  top: 2rem
+  overflow-y: auto
+  border-radius: 0.25rem
+  background-color: $light
+  color: #777
+  display: none
+  @media screen and (min-width: 769px)
+    display: initial
+    margin-top: 5rem
+    float: left
+    max-width: 15rem
+    ~ *
+      width: calc(100% - 17.5rem)
+      margin-left: 17.5rem
+  ul, ol
+    list-style: none
+    padding-left: 0
+    margin-left: 0 !important
+  li 
+    padding: 0
+  &_wrap
+    height: 90vh
+  &_item
+    display: block
+    padding: 0.5rem 1rem
+    position: relative
+    border: 1px solid $haze
+    text-decoration: none !important
+    color: inherit !important
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: -1px
+      bottom: 0
+      padding: 1px
+      background-color: $theme
+      opacity: 0
+      z-index: 2
+      transition: opacity 0.5s $ease
+  &_active
+    &, strong, b
+      color: $shade !important
+    &::before
+      background-color: $theme !important
+      color: $light
+      opacity: 1
+    &.toc_tally
+      background-color: $haze
+      &::after
+        background-color: $theme !important
+        color: $light
+  &_tally
+    display: grid
+    grid-template-columns: 1fr 2rem
+    grid-gap: 1rem
+    align-items: center
+    border-top: none
+    &::after
+      content: attr(data-items)
+      position: relative
+      right: 0.5rem
+      background-color: $haze
+      border-radius: 1rem
+      display: inline-grid
+      align-items: center
+      text-align: center
+      font-size: 0.75rem

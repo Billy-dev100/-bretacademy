@@ -1,0 +1,20 @@
+<div class = 'grid-3'>
+{{- range $index, $value := where .Site.RegularPages "Section" .Section }}
+  <article class = 'article mb-2'>
+    <a href = '{{ $value.Permalink }}'>
+      <figure class = 'article_thumb' style='background-image: url(/images/{{ $value.Params.image.name }})'>
+      </figure>
+      <div class = 'article_meta'>
+        <section class = 'huh'>
+          <h5 class = 'article_{{ $value.Params.category }} color'>{{ $value.Params.category }}</h5>
+          <h3>{{ $value.Title }}</h3>
+          <time>{{ dateFormat "02. January 2006" $value.Date }}</time>
+          <div class = 'article_excerpt'>
+            <p>{{ $value.Summary | truncate 100 }}</p>
+          </div>
+        </section>
+      </div>
+    </a>
+  </article>
+  {{- end }}
+</div>
