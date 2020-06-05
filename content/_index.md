@@ -52,6 +52,8 @@ Get our ebook for secret tips on how Neil G Van Luven transformed $38,673 into $
 
 {{< video "e-Lj8cgrYkY" >}}
 
+{{</block>}}
+
 ***
 
 ### About the Institute
@@ -240,5 +242,3 @@ Tel: [+44 (0) 207 931 9881](callto:+44%20%280%29%20207%20931%209881)
 For more information about the Bretcrown Trading Academy, contact [sunil@bretcrown.com](mailto:sunil@bretcrown.com) or [catherine@bretcrown.com](mailto:catherine@bretcrown.com)
 
 {{< /column >}} {{< /grid >}}
-
-{{</block>}}
