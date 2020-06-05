@@ -16,9 +16,7 @@ title = "Professional Spread-betting on Crude Oil and Related Products"
 
 {{< myPartial partial = "toc" >}}
 
-### About the Institute
-
-**What is Bretcrown Trading Academy?**
+### **What is Bretcrown Trading Academy?**
 
 Crude Oil is a benchmark not only on Oil itself but also on the well-being of the geopolitical climate of many Countries, Organizations & Governments. The Crude Oil trading market is one of the most volatile markets among all Commodities, and one that has vast trading volumes worldwide with tremendous profit-earning potential for traders, globally.
 
