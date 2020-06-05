@@ -206,6 +206,8 @@ Languages include English and Spanish.
 
 {{< /column >}}
 
+{{</grid>}}
+
 ***
 
 ### **Sign up for the Course**
