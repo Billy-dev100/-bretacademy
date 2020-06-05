@@ -4,18 +4,8 @@ title = "Bretcrown Trading Academy"
 [[slides]]
 description = "Bretcrown Trading LTD is a Leading Spread-betting Company Based in the United Kingdom. Bretcrown Trading Provides Successful Spread-betting On Crude Oil Products"
 image = "oil.jpg"
-link = "/the-solution/"
+link = ""
 title = "Professional Spread-betting on Crude Oil and Related Products"
-[[slides]]
-description = "Our team of experienced crude oil spread-betting experts is ready to offer you trading at a level that will benefit all shareholders, stakeholders, and employees."
-image = "Oil2.jpg"
-link = "/spread-betting/"
-title = "Offering You Over 90% Spread-betting Success Rate"
-[[slides]]
-description = "Since its establishment in 1988, Bretcrown Trading Limited has been using latest technologies and trading tools to competitively and successfully trade with great returns on investment, whether the markets are rising or falling!"
-image = "Oil3.jpg"
-link = "/our-trading-tools/"
-title = "Applying Powerful Computing Technologies"
 
 +++
 {{< video "e-Lj8cgrYkY" >}}
