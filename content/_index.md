@@ -46,6 +46,8 @@ Get our ebook for secret tips on how Neil G Van Luven transformed $38,673 into $
 
 {{< /column >}} {{< /grid >}}
 
+{{<block>}}
+
 ## Our Products & Services
 
 {{< video "e-Lj8cgrYkY" >}}
@@ -171,3 +173,5 @@ For more information contact [sunil@bretcrown.com](mailto:sunil@bretcrown.com) o
 <br><hr><br>
 
 {{< myPartial partial="googleForm" >}}
+
+{{</block>}}
