@@ -1,8 +1,8 @@
 +++
 permalink = "/"
-title = "Bretcrown Trading Academy"
+title = "Bretcrown Online Trading Academy LTD"
 [[slides]]
-description = "A leading Crude Oil Trading online training academy offering courses globally backed by a competent team of instructors."
+description = "A leading Crude Oil Online Trading Academy offering courses globally backed by a competent team of instructors."
 image = "chart-trading-courses-forex.jpg"
 link = ""
 title = "WELCOME TO BRETCROWN TRADING ACADEMY"
