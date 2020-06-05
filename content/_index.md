@@ -58,6 +58,8 @@ Get our ebook for secret tips on how Neil G Van Luven transformed $38,673 into $
 
 {{<block>}}
 
+{{< myPartial partial = "toc" >}}
+
 ### About the Institute
 
 Question: Tell me about the Bretcrown Institute of Learning.
