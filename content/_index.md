@@ -222,8 +222,6 @@ Question: Why should I take this course as opposed to an Accounting Course or ot
 
 Answer: If you compare our Course to say an Accounting accreditation, a professional Oil Trader will earn vastly greater sums compared to a career in Accounting. Additionally, although there are other Trading Courses available - none of them specialise in Energy. Our CEO believes that to become a top Crude Oil trader, you must specialise and learn everything you can about Oil. He believes that the same should apply to all trading products. Our focus is on Crude Oil so our graduates will learn from the Energy specialist professionals.
 
-For more information contact [sunil@bretcrown.com](mailto:sunil@bretcrown.com) or [catherine@bretcrown.com](mailto:catherine@bretcrown.com)
-
 <br><hr><br>
 
 {{< myPartial partial="googleForm" >}}
@@ -243,6 +241,6 @@ United Kingdom
 Email: [admin@bretcrown.com](mailto:admin@bretcrown.com)  
 Tel: [+44 (0) 207 931 9881](callto:+44%20%280%29%20207%20931%209881)
 
-For more information about The Crude Oil Investment Club or our Institute of Learning contact admin@bretcrown.com
+For more information about the Bretcrown Trading Academy, contact [sunil@bretcrown.com](mailto:sunil@bretcrown.com) or [catherine@bretcrown.com](mailto:catherine@bretcrown.com)
 
 {{< /column >}} {{< /grid >}}
