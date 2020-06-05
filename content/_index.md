@@ -1,6 +1,6 @@
 +++
 permalink = "/"
-title = "Bretcrown Trading"
+title = "Bretcrown Trading Academy"
 [[slides]]
 description = "Bretcrown Trading LTD is a Leading Spread-betting Company Based in the United Kingdom. Bretcrown Trading Provides Successful Spread-betting On Crude Oil Products"
 image = "oil.jpg"
