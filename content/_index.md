@@ -226,6 +226,8 @@ Answer: If you compare our Course to say an Accounting accreditation, a professi
 
 {{< myPartial partial="googleForm" >}}
 
+***
+
 ### **Contact Us**
 
 {{< grid "inverse" >}} {{< column >}} {{< form >}} {{< /column >}} {{< column >}}
