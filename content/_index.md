@@ -52,6 +52,8 @@ Get our ebook for secret tips on how Neil G Van Luven transformed $38,673 into $
 
 {{< video "e-Lj8cgrYkY" >}}
 
+{{< /block "center">}}
+
 {{< myPartial partial = "toc" >}}
 
 ### About the Institute
