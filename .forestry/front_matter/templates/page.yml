@@ -12,6 +12,7 @@ fields:
   label: Featured Image
   description: Page featured image
 pages:
+- content/blog/news-room.md
 - content/checkout.md
 - content/institute-of-learning.md
 - content/the-crude-oil-club.md
