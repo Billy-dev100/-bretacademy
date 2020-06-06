@@ -1,4 +1,7 @@
 ---
+- link: Our Courses
+  url: ''
+  submenu: []
 - link: Home
   url: "/"
   submenu: []
