@@ -1,6 +1,6 @@
 ---
 - link: Our Courses
-  url: ''
+  url: "/our-courses"
   submenu: []
 - link: Home
   url: "/"
