@@ -1,9 +1,45 @@
 +++
-title = "The Problem"
+title = "Our Courses"
 
 +++
-![](/images/problem.png)
+## **Crude Oil Online Trading Course**
 
-Every Trading platform warns retail Traders that 80% of such Traders lose their money. Many of these Traders are too small to deal with one of the recognised platforms, so they have nowhere to go to get help. As a result, these Traders either do not carry on searching, or they spend their money in some other way.
+### **Course Pre-requisites**
 
-As soon as Bretcrown Trading Ltd completes its first year of Trading, it will also by then have acquired any and all formal approvals required by the Financial Conducts Authority in the UK to enable it to accept private retail investors and Trade on their behalf.  Once this has been finalised and the FCA approval has been granted, it will be ready to start Trading for private individuals.
+* Information on the Crude Oil market.
+* The basics of Forex – currency pairs, pip values, etc.
+* Fundamental analysis.
+* Technical analysis and;
+* Using the Metatrader platform.
+
+### **Course Basics**
+
+* Settings for the Metatrader (MT4) platform – using the tools, installing Fibonacci Ratios, placing orders, and more.
+* Definition of Crude contracts on the MT4 platform - Understanding the pip values, leverage, margins, and so on.
+
+### **Techniques**
+
+* Trends and Trend lines.
+* Support and Resistance levels.
+* The basic 1-2-3 price pattern.
+* Introduction to Fibonacci Ratios and the ground rules.
+* 3M’s.
+* Principles of Money Management.
+* The Rule of 3 for Multiple Time Frames.
+* The ‘Regular Divergence’ trading strategy.
+* The timings - Day cycle for Crude Oil.
+* Introduction to Pivot levels, and the practical tips for using them.
+* Putting it all together with a Trading Plan
+* Learning the ‘ready-to-use’ MT4 indicator to identify trade setups.
+
+### **Sign up for the Course**
+
+The cost of this Online Training Course is $995 upon registration plus $1,000 at completion, or the Trainee can opt for a 25% discount by paying $1,495 upon registration.
+
+**Why should I take this course as opposed to an Accounting Course or other trading courses as the cost is much the same?**
+
+If you compare our Course to say an Accounting accreditation, a professional Oil Trader will earn vastly greater sums compared to a career in Accounting. Additionally, although there are other Trading Courses available - none of them specialise in Energy. Our CEO believes that to become a top Crude Oil trader, you must specialise and learn everything you can about Oil. He believes that the same should apply to all trading products. Our focus is on Crude Oil so our graduates will learn from the Energy specialist professionals.
+
+<br><hr><br>
+
+{{< myPartial partial="googleForm" >}}
