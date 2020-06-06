@@ -1,10 +1,10 @@
 ---
+- link: Home
+  url: "/"
+  submenu: []
 - link: Our Team
   url: "/team"
   submenu: []
 - link: About Us
   url: "/about-us"
-  submenu: []
-- link: Bretcrown Trading Academy
-  url: "/"
   submenu: []
