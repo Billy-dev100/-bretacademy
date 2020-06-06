@@ -82,7 +82,7 @@ Money: Risk Management is the single-most-important factor in trading as previou
 
 **How does one enrol and get started?**
 
-Go to [www.bretcrownacademy.com/checkout](www.bretcrownacademy.com/checkout "checkout")
+Go to [checkout](www.bretcrownacademy.com/checkout "checkout")
 
 ### **Sign up for the Course**
 
