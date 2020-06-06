@@ -5,113 +5,83 @@ title = "About Us"
 ![](/images/bret10.jpeg)
 
 ***
+
 {{< myPartial partial = "toc" >}}
 
-### Bretcrown Trading LTD
+### **What is The Bretcrown Online Trading Academy LTD?**
 
-“Bretcrown Trading Ltd” is a company registered under the Companies Act with the “The Registrar of Companies for England and Wales” registration No:12128651.‘Bretcrown Trading Ltd’ along with The Crude Oil Investment Club is owned by ‘The Bretcrown Trust’, which was formed in 1988 as a tax efficient holding vehicle for properties, acquisitions & other assets for the benefit of the Trust’s beneficiaries. The company was formed with an Ordinary Share Capital base of £500,000, owned by The Bretcrown Trust, with a generous Share purchase plan for employees.
+Crude Oil is a benchmark not only on Oil itself but also on the well-being of the geopolitical climate of many Countries, Organizations & Governments. The Crude Oil trading market is one of the most volatile markets among all Commodities, and one that has vast trading volumes worldwide with tremendous profit-earning potential for traders, globally.
 
-Currently private investors can join The Crude Oil Investment Club and participate in the profitable Crude Oil trading by the Club. If you wish to receive an invitation to consider joining the Club you should start by sending an expression of interest email to [neil@bretcrown.com](mailto:neil@bretcrown.com) or sunil@bretcrown.com
+The opportunity to trade Crude Oil exists perpetually, whether the price is $150 a barrel or below $20 a barrel, whether the price is rising or falling, whether in a ‘BULL’ or a ‘BEAR’ market.
 
-***
+The Bretcrown Online Trading Academy LTD was created as a means of finding like-minded committed traders who want to learn how to trade Crude Oil with a high probability of success. Statistically, over 75% of traders are unsuccessful in this volatile market.
 
-### The Path to Financial Success
+The Bretcrown Online Trading Academy LTD's techniques are highly effective as they are based on certain unique characteristics of Crude Oil and key geopolitical factors among our proprietary keys, with the result that the rate is reversed with over 75% being successful.
 
-Neil G Van Luven has written a book on Spread-Betting Crude Oil, based on his experiences.
+As our Crude Oil Investment Club is growing, we need more traders, and the best way to spot trading talent is by holding a Training Course that will enable traders with a skill-set to surface, providing Bretcrown Online Trading International LTD with a pool of talented traders. Traders are currently needed for London, Switzerland, Dubai, and Singapore.
 
-It covers fourteen weeks from 23 November 2018 to 04 March 2019 when Neil transformed $38,673 into $1,129,030 by Spread-Betting Oil, taking advantage of the maximum Leverage offered by the Brokerage firm he selected. The success rate achieved was 92.6% of his Trades being profitable and only 7.4% resulting in losses by the number of Trades and 94.3% profitable with 5.7% losses by the monetary value of the Trades – all using Leverage of 4% or 1:25! There were 94 Trades in total, during this fourteen-week period, of which 57 were 'BUY' Trades and 37 were 'SELL' Trades. These results illustrate Neil's unique skill set as an Oil Trader.
+The traders that successfully graduate the Course become certified ‘Master Traders’. As such, this certification will also enhance their ability to enter or progress in the trading industry, globally so; it is a ‘win/win’ for all concerned.
 
-The e-Book and paper-back versions are now [available at Amazon](https://www.amazon.com/dp/1075166098?ref_=pe_3052080_397514860). See cover below.
+### About Our Master Trader Course
 
-![](/images/original-08.jpg)
+**What does it entail?**
 
-{{< button "https://www.amazon.com/dp/1075166098?ref_=pe_3052080_397514860" "download book" >}}
+**Fact:** The Crude Oil market is comprised of various products - Brent Crude, WTI Crude, Natural Gas, and more. It is one of the most volatile markets in the Commodities world. Crude Oil trading offers excellent opportunities to profit in nearly all market conditions due to its unique standing within the world's economic and political systems.
 
-You can also enrol for our master trader course [here](https://bretcrown.com/institute-of-learning/ "training") to learn how to trade crude oil and other commodities like a pro.
+**Fact:** Statistics say that over 75% of all traders lose money while trading intraday in the Crude Oil markets. This is because the average (inexperienced) traders often rely on indicators, which are mostly lagging. Professional traders are aware of this and create the momentum to start a movement. By the time the average trader gets a trade signal, the trade opportunity is almost over. Professionals will be selling their positions to indicator-based traders.
 
-***
+Bretcrown Online Trading International LTD's techniques are based on this concept, which keeps us aligned with the other Professional and Institutional traders. Crude Oil also follows certain predictable movements across different trading zones which are known to some Professional Intuitional traders.
 
-### What Makes Us Different?
+We follow this concept, and take advantage of predictable movements, from the Asian to the European trading zones, and subsequently to NYMEX in the USA.
 
-We take a different view to other Traders who Spread-Bet. That is why we are extraordinarily successful.
+We follow the Institutional Pivot levels, which are effective levels of Support and Resistance. These Pivot levels are followed by Floor traders who create the Supply and Demand in the market. These are based on standard calculations, and again, there are certain interpretations to which the average trader is not aware.
 
-First and foremost, our main product is Crude Oil, and one or two other Commodities and some FX. We do not allow products or Commodities outside of this to distort or influence our judgement.
+Most traders are not successful due to not having a specific ‘Trading Plan’. We implement the concept of the 3M’s in our Trading Plan – Money, Mind & Method….in that order. All our techniques have a specific ‘Trading Plan’ based on the 3M’s, which tell us exactly when to enter a trade, what should be the stop loss levels & the correct exits.
 
-Next, we are able to decipher and understand the News that is relevant to our products as well as the geopolitical events globally that affect the prices of the products we work with.
+**Money:** Risk Management is the single-most-important factor in trading, and Trainees will learn the 2 Golden Rules to ensure success.
 
-We consider and take into account all relevant Technical Indicators including Bollinger Bands, Fibonacci Numbers and Lines, Exponential Moving Average, MACD, Pivot Point, Rate of Change, RSI and Standard Deviation and others, as appropriate.
+**Mind:** Bretcrown Online Trading Academy teaches the concept of ‘Discipline’ and ‘Patience’ – “Patience” to wait for the market to give us the trade and once it does, to have the “Discipline” to follow the rules.
 
-We have the courage to take positions when we believe it is time to do so after carefully considering all relevant factors.
+**Method:** Bretcrown Online Trading Academy LTD's techniques are based on the very concept of the Professionals trapping the less-experienced traders. This keeps us aligned with the skill set of Professional and Institutional traders, thus, increasing the probability of successful trades. Our techniques are advanced and highly effective since we do not use the regular trading concepts conventionally. We do not use any indicators but instead rely completely on price action.
 
-All of the above contribute to a positive outcome.
+**‘Divergence’:** Divergence is our principal trading technique. Divergence is the primary setup used by Banking Institutions to trap the retail traders. By using this technique, we are trading along with the Professional Institutions. For example, a majority of traders are not aware that there are different types of divergences. Our Trading Plan identifies the “Class A” divergence, which is the strongest type of divergence and usually indicates a sharp and significant reversal of the trend.
 
-Our processes often involve special reviews.
+Also, we use the Fibonacci Ratios as a confirmation factor. The Fibonacci ratios are used in the financial markets to identify strong Support and Resistance levels. They can accurately anticipate the major turns in the market and identify key turning points for tops and bottoms...but only if you know how to interpret them correctly and most traders seldom do so. We use certain ‘Institutional ratios’ which a high percentage of traders are not aware of…. again, to keep our trades aligned with the Professional Institutions.
 
-As an example, we examined previous WTI CRUDE positions on twelve 'positive' Trading days selected at random and then compare these with BRENT CRUDE on the same days at the same trading times, i.e. between 06:00 GMT and 18:00 GMT.
+In short, the Course is comprised of Twenty ‘one-hour long’ sessions. One for each trading day - online in Realtime with our Director of Technical Services and our Chief Instructor, both of whom are specialists in Energy trading. The Course covers:
 
-This examination revealed that characteristically, BRENT CRUDE increased by 138 points per Trading day, but WTI CRUDE only rose by 90 points per Trading day for the same twelve Trading days. This evidence strongly suggests how BRENT CRUDE should be designated by us.
+Money: Risk Management is the single-most-important factor in trading as previously stated, and Trainees will learn the 2 Golden Rules, which ensure success. These are Patience and Discipline.
 
-Similarly, we conducted a comparative assessment using a different twelve 'negative' Trading days selected at random on the same days at the same trading times. The results showed both BRENT CRUDE and WTI CRUDE declining routinely, in points per day of 52 for BRENT CRUDE and 72 for WTI CRUDE. This evidence also strongly suggests how WTI CRUDE should be designated by us.
+### Course Pre-requisites
 
-Given the results of this examination, our Trades follow these suggested courses of action.
+* Information on the Crude Oil market.
+* The basics of Forex – currency pairs, pip values, etc.
+* Fundamental analysis.
+* Technical analysis and;
+* Using the Metatrader platform.
 
-We will continue to conduct a similar analysis at regular intervals to ensure that we Open Trades appropriately in the Global circumstances prevailing at the time.
+### Course Basics
 
-<!-- ![](/images/Spread-betting.jpg)-->
+* Settings for the Metatrader (MT4) platform – using the tools, installing Fibonacci Ratios, placing orders, and more.
+* Definition of Crude contracts on the MT4 platform - Understanding the pip values, leverage, margins, and so on.
 
-Throughout Neil's entire commercial life, he has practised and honed his financial skills in the field of Working Capital Improvement - Balance Sheet Optimization.
+### Techniques
 
-During the span of over 40 years, Neil collaborated with more than 1,000 Clients in multiple global jurisdictions and helped them harvest $55 Billion in permanent and sustained cash generation from receivables/payables infrastructures.
+* Trends and Trend lines.
+* Support and Resistance levels.
+* The basic 1-2-3 price pattern.
+* Introduction to Fibonacci Ratios and the ground rules.
+* 3M’s.
+* Principles of Money Management.
+* The Rule of 3 for Multiple Time Frames.
+* The ‘Regular Divergence’ trading strategy.
+* The timings - Day cycle for Crude Oil.
+* Introduction to Pivot levels, and the practical tips for using them.
+* Putting it all together with a Trading Plan
+* Learning the ‘ready-to-use’ MT4 indicator to identify trade setups.
 
-Neil's first Book - 'Secrets of Balance Sheet Optimization' was Published in May 2014.
+**How does one enrol and get started?**
 
-Amazon ranked it #17 out of their top 100 in its Business Analysis classification.
-
-***
-
-### Day-trading
-
-<!-- ![](/images/original-10.jpg) --> A Day-Trader is a Speculator in Securities, explicitly buying and selling Financial Instruments within the same trading day, such that Positions are Closed before the Market closes for the same Trading day.
-
-Traders who Trade in this capacity and with the motive of Profit are therefore Speculators, in contrast with the long-term trades underlying buy and hold and value investing strategies. Day-Traders normally exit Positions before the Market closes to avoid unmanageable risks - negative Price gaps between one day's close and the next day's price at the open.
-
-Only very occasionally, a Trade may over-run the close of the business day, but customarily Trades are Closed before the Trading day ends obtaining the best price possible.
-
-Spread-Bets are complex instruments and come with a high risk of losing money rapidly due to Leverage, but Financial Spread-Betting is the tax-free way to take advantage of rising or falling markets. When the Trader opens a Spread-Betting Position on a Market, he is given a 'BUY' and 'SELL' Price either side of the underlying Market Price – this is the Spread. If the Trader thinks the Market will rise, he Opens the Spread-Bet at the ‘BUY’ Price. If the Trader thinks the Market will fall, he Opens at the ‘SELL’ Price. The more the market moves in the Trader’s favour, the higher his Profit. The more the market moves against the Trader, the higher his loss.
-
-Spread-Betting is a form of derivatives Trading that allows the Trader to take a position on whether he thinks a Market will rise or fall, without having to buy the underlying asset. Importantly, Spread-Betting is a Leveraged transaction, which means the Trader only puts down a small deposit for much larger market exposure.
-
-***
-
-### Why Bretcrown Trading LTD Provides Profitable Results
-
-![](/images/advance-analysis-business-graph-data.jpg)
-We use Bollinger Bands and Fibonacci Numbers and Lines as part of our Technical Indicators among others, including Exponential Moving Average, MACD, Pivot Point, Rate of Change, RSI and Standard Deviation.
-
-We always use ‘Force Open’ Trading.
-
-In the absence of ‘Force Open’ Trading, the Service Platform typically nets out the Position, effectively Closing the original Trade to register the new Trade which does not happen with ‘Force Open’ Trading because both Trades run in parallel, simultaneously.
-
-Force Open enables us to Open new Trades on 'BUY' and 'SELL' Positions simultaneously when there is no definite reason to select just one Position.
-
-Geopolitical factors of which there are many, that do not directly influence the Price of our product are extraneous to us and for the most part peripheral to our Trading. However, Reports or events that have a direct bearing on our products continue to be analysed and factored in. We sift through the ‘White Noise’ and concentrate on and consider only the factors that impact the daily Price of the product we are working with.
-
-We use an intra-day technique known as Scalping that usually has us holding a Position for a few minutes or only seconds. A Scalp in Trading is the act of Opening and then Closing a Position very quickly, Profiting from small price movements. Traders who practise this tactic are referred to as Scalpers and will tend to make many Scalps each day. The theory behind Scalping is that small price movement is easier to predict than large ones. Profits on Scalps tend to be modest in relation to the Trade Size, but losses can be kept to a minimum as strict rules are adhered to.
-
-We also use Trailing Stops. A Trailing Stop order is a specific type of ‘Stop-Loss’ that automatically follows our Position if the Market rises, securing our Profit, but it will remain in place if the Market falls – Closing out our Position if the Market moves against us. A Trailing Stop Order does not set the Stop Level at a specific price, but rather at a certain distance away from the current Market price. It would be placed below the current Market price if we open a 'BUY' Trade, and above the current Market price if we open a 'SELL' Trade. A Trailing Stop is set at a certain amount of points away from the Market price – this distance is the Trailing Stop – and the Stop will move to maintain that distance from the current price.
-
-***
-
-## Our Credentials
-
-In 1988, The Bretcrown Trust was formed.
-
-The Bretcrown Trust is a Not For Profit Trust that Banks with Santander Bank. Its Trustees created a trading operation to concentrate only on Spread-Betting certain products.
-
-The operation is Bretcrown Trading Ltd which holds separate Bank Accounts.
-
-All funds are kept separated from the Bretcrown Trading activities and all Trust funds are kept separated to preserve the integrity of and safeguard all funds.
-
-Detailed monthly Trading activity reports are electronically circulated to shareholders and stakeholders alike, thereby maintaining complete transparency. Daily/Weekly reports are also circulated when special events arise.
+Go to www.bretcrownacademy.com
 
 ***
