@@ -1,4 +1,7 @@
 ---
+- link: Our Team
+  url: "/team"
+  submenu: []
 - link: About Us
   url: "/about-us"
   submenu: []
