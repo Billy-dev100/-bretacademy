@@ -1,4 +1,7 @@
 ---
+- link: About Us
+  url: "/about-us"
+  submenu: []
 - link: Bretcrown Trading Academy
   url: "/"
   submenu: []
