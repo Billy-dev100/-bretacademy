@@ -1,7 +1,4 @@
 ---
-- link: News Room
-  url: "/news-room"
-  submenu: []
 - link: Home
   url: "/"
   submenu: []
@@ -10,6 +7,9 @@
   submenu: []
 - link: Our Team
   url: "/team"
+  submenu: []
+- link: News Room
+  url: "/news-room"
   submenu: []
 - link: Contact Us
   url: "/contact"
