@@ -13,5 +13,4 @@ fields:
   description: Page featured image
 pages:
 - content/checkout.md
-- content/institute-of-learning.md
 - content/our-courses.md
