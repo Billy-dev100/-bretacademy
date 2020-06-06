@@ -1,18 +1,18 @@
 ---
-- link: Our Courses
-  url: "/our-courses"
-  submenu: []
 - link: Home
   url: "/"
   submenu: []
 - link: About Us
   url: "/about-us"
   submenu: []
-- link: News Room
-  url: "/news-room"
+- link: Our Courses
+  url: "/our-courses"
   submenu: []
 - link: Our Team
   url: "/team"
+  submenu: []
+- link: News Room
+  url: "/news-room"
   submenu: []
 - link: Contact Us
   url: "/contact"
