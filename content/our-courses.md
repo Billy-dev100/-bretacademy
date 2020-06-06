@@ -1,10 +1,8 @@
 +++
 image = ""
-title = "Our Courses"
+title = "Crude Oil Online Trading Course"
 
 +++
-## **Crude Oil Online Trading Course**
-
 ### **Course Pre-requisites**
 
 * Information on the Crude Oil market.
