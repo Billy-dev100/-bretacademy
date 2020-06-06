@@ -1,4 +1,7 @@
 ---
+- link: News Room
+  url: "/news-room"
+  submenu: []
 - link: Home
   url: "/"
   submenu: []
