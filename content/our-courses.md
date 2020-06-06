@@ -39,6 +39,4 @@ The cost of this Online Training Course is $995 upon registration plus $1,000 at
 
 If you compare our Course to say an Accounting accreditation, a professional Oil Trader will earn vastly greater sums compared to a career in Accounting. Additionally, although there are other Trading Courses available - none of them specialise in Energy. Our CEO believes that to become a top Crude Oil trader, you must specialise and learn everything you can about Oil. He believes that the same should apply to all trading products. Our focus is on Crude Oil so our graduates will learn from the Energy specialist professionals.
 
-<br><hr><br>
-
 {{< myPartial partial="googleForm" >}}
