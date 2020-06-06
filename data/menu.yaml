@@ -1,13 +1,13 @@
 ---
-- link: Contact Us
-  url: "/contact"
-  submenu: []
 - link: Home
   url: "/"
+  submenu: []
+- link: About Us
+  url: "/about-us"
   submenu: []
 - link: Our Team
   url: "/team"
   submenu: []
-- link: About Us
-  url: "/about-us"
+- link: Contact Us
+  url: "/contact"
   submenu: []
