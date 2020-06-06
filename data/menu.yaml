@@ -5,11 +5,11 @@
 - link: About Us
   url: "/about-us"
   submenu: []
-- link: Our Team
-  url: "/team"
-  submenu: []
 - link: News Room
   url: "/news-room"
+  submenu: []
+- link: Our Team
+  url: "/team"
   submenu: []
 - link: Contact Us
   url: "/contact"
