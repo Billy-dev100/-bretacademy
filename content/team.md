@@ -4,13 +4,13 @@ title = "Team"
 +++
 ### **Our Mission**
 
-> Our Mission is to Trade at a level of success that will benefit all Shareholders, Stakeholders and Employees.
+> Our Mission is to teach novice Traders how to successfully trade Crude Oil and for experienced Traders to provide additional tools for their trading.
 
 Going further, Oil is a benchmark on the well-being of many Countries, Organisations, Governments, and its Peoples.
 
 The opportunity to Spread-Bet on Oil exists perpetually, whether the Price is $150 a barrel or $20 a barrel, whether the Price is rising or falling, whether we are in a ‘BULL’ or a ‘BEAR’ Market and whatever the geopolitical factors are.
 
-> "The current success rate: 92.6% of my trades were profitable, with only 7.4% resulting in losses (by the number of trades), 94.3% profitable with 5.7% losses (by the monetary value of the trades) – this is too extraordinary and improbable to be believed but nevertheless happened!" - Neil G Van Luven.
+> "The current success rate is greater than 80% of trades being profitable with 20% or less resulting in losses. This course will demonstrate how this success rate can be achieved and sustained" - Neil G Van Luven.
 
 We firmly believe that by concentrating on just a handful of products gives us the edge as it enables us to avoid the massive amount of "White Noise" that continuously impacts the market generally and is enormously distracting to Traders.
 
