@@ -10,7 +10,7 @@ title = "WELCOME TO THE BRETCROWN ONLINE TRADING ACADEMY LTD"
 +++
 {{<block>}}
 
-{{< video "e-Lj8cgrYkY" >}}
+{{< video "hoZqevZgjhg" >}}
 
 ***
 
