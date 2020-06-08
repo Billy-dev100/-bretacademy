@@ -12,7 +12,7 @@ The opportunity to Spread-Bet on Oil exists perpetually, whether the Price is $1
 
 > "The current success rate is greater than 80% of trades being profitable with 20% or less resulting in losses. This course will demonstrate how this success rate can be achieved and sustained" - Neil G Van Luven.
 
-We firmly believe that by concentrating on just a handful of products gives us the edge as it enables us to avoid the massive amount of "White Noise" that continuously impacts the market generally and is enormously distracting to Traders.
+Our instructors firmly believe that by concentrating on a very small number of products gives us the edge as it enables us to avoid the massive amount of "White Noise" that continuously impacts the market generally and is enormously distracting to Traders.
 
 Finally, we develop unique algorithms that do the repetitive work thereby enabling the Trader to concentrate his attention on those matters that cannot be done by algorithms alone.
 
@@ -52,7 +52,7 @@ Today, Sunil enjoys mentoring traders so they become fulfilled and better themse
 
 [LinkedIn](https://www.linkedin.com/in/catherinedeclemente/)
 
-Catherine has been involved in the Forex and Futures markets for several years, with a focus on day-trading Oil Futures. Over the years, she has had a variety of experiences ranging from being a High Yield bond analyst at a mid-sized NYC firm to a Director of Operations at a fast-growing bookkeeping firm. A common theme that can be found throughout her professional journey has been her ability to take complex topics and train/educate others in "layman terms". At Bretcrown, she combines her two passions of educational development with technical analysis to help others achieve their financial dreams.
+**Catherine DeClemente has been involved in the Forex and Futures markets for several years, with a focus on day-trading Oil Futures.** Over the years, she has had a variety of experiences ranging from being a High Yield bond analyst at a mid-sized NYC firm to a Director of Operations at a fast-growing bookkeeping firm. A common theme that can be found throughout her professional journey has been her ability to take complex topics and train/educate others in "layman terms". At Bretcrown, she combines her two passions of educational development with technical analysis to help others achieve their financial dreams.
 
 Outside of the markets, Catherine is a global traveler who lives for cross-cultural immersion and cuisine explorations.
 
