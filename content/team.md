@@ -14,7 +14,7 @@ The opportunity to Spread-Bet on Oil exists perpetually, whether the Price is $1
 
 Our instructors firmly believe that by concentrating on a very small number of products gives us the edge as it enables us to avoid the massive amount of "White Noise" that continuously impacts the market generally and is enormously distracting to Traders.
 
-Finally, we develop unique algorithms that do the repetitive work thereby enabling the Trader to concentrate his attention on those matters that cannot be done by algorithms alone.
+Finally, we develop unique algorithms that do the repetitive work thereby enabling the Trader to concentrate his/her attention on those matters that cannot be done by algorithms alone.
 
 ***
 
