@@ -9,4 +9,4 @@ name = "martinlutherkingjr.jpg"
 +++
 Black Lives Matter
 
-We support peaceful protestors who participate in demonstrations globally. 
+We support peaceful protestors who participate in demonstrations globally.
