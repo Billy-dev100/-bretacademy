@@ -12,7 +12,7 @@
   url: "/team"
   submenu: []
 - link: News Room
-  url: "//content-news-room"
+  url: "/news-room"
   submenu: []
 - link: Contact Us
   url: "/contact"
