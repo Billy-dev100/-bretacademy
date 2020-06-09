@@ -27,3 +27,5 @@ fields:
   type: boolean
   label: draft
   description: publish or unpublished
+pages:
+- content/news-room.md
