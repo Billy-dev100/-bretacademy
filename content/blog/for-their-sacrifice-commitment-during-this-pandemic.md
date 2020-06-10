@@ -8,3 +8,5 @@ name = "NHSRainbow.jpg"
 
 +++
 We thank the many Doctors and Nurses and NHS Support Staff Members who put their lives on the line every day during this pandemic.
+
+![](/images/coronavirus.jpg)
