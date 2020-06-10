@@ -1,4 +1,7 @@
 ---
+- link: Articles
+  url: "/blog"
+  submenu: []
 - link: Home
   url: "/"
   submenu: []
