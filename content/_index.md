@@ -5,7 +5,7 @@ title = "Home"
 description = "A leading Crude Oil Online Trading Academy offering courses globally backed by a competent team of instructors."
 image = "chart-trading-courses-forex.jpg"
 link = "/about-us"
-title = "WELCOME TO THE online trading ACADEMY LTD"
+title = "WELCOME TO THE ONLINE ACADEMY LTD"
 
 +++
 {{<block>}}
