@@ -1,9 +1,7 @@
 +++
-title = "Our Instructors"
+title = "Our Mission"
 
 +++
-### **Our Mission**
-
 > Our Mission is to teach novice Traders how to successfully trade Crude Oil and for experienced Traders to provide additional tools for their trading.
 
 Going further, Oil is a benchmark on the well-being of many Countries, Organisations, Governments, and its Peoples.
