@@ -14,7 +14,7 @@ title = "WELCOME TO THE ONLINE TRADING ACADEMY LTD"
 
 ***
 
-### **What is The Online Trading Academy?**
+### **What is the Online Trading Academy?**
 
 Crude Oil is a benchmark not only on Oil itself but also on the well-being of the geopolitical climate of many Countries, Organizations & Governments. The Crude Oil trading market is one of the most volatile markets among all Commodities, and one that has vast trading volumes worldwide with tremendous profit-earning potential for traders, globally.
 
