@@ -1,22 +1,8 @@
 +++
-title = "Our Mission"
+title = "Our Instructors"
 
 +++
-> Our Mission is to teach novice Traders how to successfully trade Crude Oil and for experienced Traders to provide additional tools for their trading.
-
-Going further, Oil is a benchmark on the well-being of many Countries, Organisations, Governments, and its Peoples.
-
-The opportunity to Spread-Bet on Oil exists perpetually, whether the Price is $150 a barrel or $20 a barrel, whether the Price is rising or falling, whether we are in a ‘BULL’ or a ‘BEAR’ Market and whatever the geopolitical factors are.
-
-> "The current success rate is greater than 80% of trades being profitable with 20% or less resulting in losses. This course will demonstrate how this success rate can be achieved and sustained" - Neil G Van Luven.
-
 Our instructors firmly believe that by concentrating on a very small number of products gives us the edge as it enables us to avoid the massive amount of "White Noise" that continuously impacts the market generally and is enormously distracting to Traders.
-
-Finally, we develop unique algorithms that do the repetitive work thereby enabling the Trader to concentrate his/her attention on those matters that cannot be done by algorithms alone.
-
-***
-
-### **Our Instructors**
 
 {{< grid "3 center mb-2 mt-2">}} {{< column "column_bg" >}} {{< avatar "/images/sunil2021.png" "a passport photo of Sunil Mangwani" >}}
 
