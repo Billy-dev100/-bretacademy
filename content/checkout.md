@@ -9,4 +9,4 @@ title = "Checkout"
 
 ### DOWNLOAD THE TRAINING COURSE OUTLINE PRESENTATION HERE
 
-{{< button "/images/phase-1-online-training.pdf" "download pdf" "download" >}}
+{{< button "/images/online-trading-academy-presentation.pdf" "download pdf" "download" >}}
