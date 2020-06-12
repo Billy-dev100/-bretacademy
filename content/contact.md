@@ -10,7 +10,7 @@ title = "Contact"
 
 ### Physical Address
 
-**Bretcrown Trading LTD**,  
+**Online Trading Academy Ltd**,  
 1 Northumberland Avenue,  
 Trafalgar Square,  
 London WC2N 5BW,  
