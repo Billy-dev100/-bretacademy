@@ -9,7 +9,7 @@
   url: "/our-courses"
   submenu: []
 - link: Our Instructors
-  url: "/team"
+  url: "/our-instructors"
   submenu: []
 - link: News Room
   url: "/blog"
