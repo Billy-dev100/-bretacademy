@@ -1,5 +1,5 @@
 +++
-title = "Team"
+title = "Our Instructors"
 
 +++
 ### **Our Mission**
