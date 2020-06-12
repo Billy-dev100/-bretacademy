@@ -14,6 +14,18 @@ title = "WELCOME TO THE ONLINE TRADING ACADEMY LTD"
 
 ***
 
+### **Our Mission**
+
+> Our Mission is to teach novice Traders how to successfully trade Crude Oil and for experienced Traders to provide additional tools for their trading.
+
+Going further, Oil is a benchmark on the well-being of many Countries, Organisations, Governments, and its Peoples.
+
+> "The current success rate is greater than 80% of trades being profitable with 20% or less resulting in losses. This course will demonstrate how this success rate can be achieved and sustained" 
+>
+> **- Neil G Van Luven.**
+
+Finally, we develop unique algorithms that do the repetitive work thereby enabling the Trader to concentrate his/her attention on those matters that cannot be done by algorithms alone.
+
 ### **What is the Online Trading Academy?**
 
 Crude Oil is a benchmark not only on Oil itself but also on the well-being of the geopolitical climate of many Countries, Organizations & Governments. The Crude Oil trading market is one of the most volatile markets among all Commodities, and one that has vast trading volumes worldwide with tremendous profit-earning potential for traders, globally.
