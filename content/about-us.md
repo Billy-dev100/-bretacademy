@@ -2,7 +2,7 @@
 title = "About Us"
 
 +++
-![](/images/bret10.jpeg)
+![](/images/training.jpeg)
 
 ***
 
